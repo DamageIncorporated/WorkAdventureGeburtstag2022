@@ -117,7 +117,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"src\/assets\/audio\/flush.mp3"
+                 "value":".\/src\/assets\/audio\/flush.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
