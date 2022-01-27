@@ -474,7 +474,7 @@
                  "y":725
                 }, 
                 {
-                 "height":224,
+                 "height":160,
                  "id":40,
                  "name":"Wohnzimmer-Runde",
                  "properties":[
@@ -486,14 +486,14 @@
                         {
                          "name":"zoom_margin",
                          "type":"float",
-                         "value":1
+                         "value":0.5
                         }],
                  "rotation":0,
                  "type":"zone",
                  "visible":true,
                  "width":256,
                  "x":928,
-                 "y":416
+                 "y":448
                 }, 
                 {
                  "height":190,
